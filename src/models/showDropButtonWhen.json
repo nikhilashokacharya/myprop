@@ -1,0 +1,6 @@
+{
+    "0 - fmshowDropButtonWhenNever":"none",
+    "1 - fmshowDropButtonWhenFocus":"focus",
+    "2 - fmshowDropButtonWhenAlways":"block"
+
+}
